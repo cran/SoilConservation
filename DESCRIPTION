@@ -1,8 +1,8 @@
 Package: SoilConservation
 Type: Package
 Title: Soil and Water Conservation
-Version: 1.0.0
-Date: 2024-04-28
+Version: 1.0.1
+Date: 2024-12-14
 Imports: stats
 Authors@R: c(
            person(given = c("Dione Pereira"), family = "Cardoso", 
@@ -32,5 +32,5 @@ Author: Dione Pereira Cardoso [aut, cre]
   Junior Cesar Avanzi [aut] (<https://orcid.org/0000-0003-2455-0325>)
 Maintainer: Dione Pereira Cardoso <cardoso.dione@gmail.com>
 Repository: CRAN
-Packaged: 2024-05-03 13:15:26 UTC; Ossan
-Date/Publication: 2024-05-03 13:50:02 UTC
+Packaged: 2024-12-14 15:55:22 UTC; DES
+Date/Publication: 2024-12-14 16:20:02 UTC

@@ -1,8 +1,8 @@
-a0c0c40ec39af973278e4e3281937032 *DESCRIPTION
+63cf21857d237a91eff434c20eeb9699 *DESCRIPTION
 9b8af45f70ecddfe037e6b7109ecf0fc *NAMESPACE
 ae804503abb9b8e851d7ca95dd5fbc2d *R/KFactor.R
 68f6243f3eb2feee1b9f38b31ac7642b *R/RFactor_calc.R
-43767c83cb1909f32f39cac462dd497e *R/RFactor_est.R
+70db2f35a1cdae999a84b0ca8d1343af *R/RFactor_est.R
 9ebcea21d8896c778234865d74198a84 *R/SoilLoss.R
 b3f0ca9c8c364e8a28b9f54e2f9e81bf *data/Data_Erodibility.rda
 8c10a2c1fb62b68142881d7addde67c4 *data/Data_Rainfall_minutes.rda
@@ -15,5 +15,5 @@ a4f29a48e167ce84d608e255ab2b5e73 *man/Data_Erodibility.Rd
 dc80c0238cfc28d6310abd0f89957367 *man/KFactor.Rd
 9e439c49b8c89008b8c6fe68d153e48a *man/RFactor_calc.Rd
 f73dc3a900b03755803dd21b5627efe5 *man/RFactor_est.Rd
-b657fdc7bdc59b76b4a3df639e2dafc1 *man/SoilConservation.Rd
+ff64ecc371ac767df1f320d4534da87f *man/SoilConservation.Rd
 2380d6fc90b20b45a37f687202fb0625 *man/SoilLoss.Rd

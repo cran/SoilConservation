@@ -53,7 +53,7 @@ RFactor_est <- function(data, latitude = NA, longitude = NA) {
     mdist <- rbind(mdist, earth_dist(latitude, longitude, lati.equ[k], long.equ[k])) # distancia da cidade do acidente a estacoes
   }
   mo <- sort(mdist) # ordena as distancias em ordem crescente
-  num.equation <- which(mdist %in% mo[1]) # encontra a posicao dos k vizinhos mais proximos
+  num.equation <- which(mdist %in% mo[1])[1] # encontra a posicao dos k vizinhos mais proximos
   ### Fim - encontra a equacao mais proxima usando a latitude/longetude ###
 
   col.mean <- colMeans(data)
